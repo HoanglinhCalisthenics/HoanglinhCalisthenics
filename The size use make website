@@ -1,0 +1,33 @@
+/* Ipad - pc low resolution */
+@media (min-width: 740px) and (max-width: 1024px) {
+    .wide {
+        width: 644px;
+    }
+}
+
+/* > Ipad */
+@media (min-width: 740px) {
+    .row {
+        margin-left: -8px;
+        margin-right: -8px;
+    }
+}
+
+/* Pc low resolution */
+@media (min-width: 740px) {
+    .row {
+        margin-left: -12px;
+        margin-right: -12px;
+    }
+}
+
+/* Pc hight resolution */
+@media (min-width: 1024px) and (max-width: 1239px) {
+    .wide {
+        width: 984px;
+    }
+    .wide .row {
+        margin-left: -12px;
+        margin-right: -12px;
+    }
+}
