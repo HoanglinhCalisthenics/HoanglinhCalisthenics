@@ -1,3 +1,13 @@
+
+/* 
+c - mobile
+
+m - Ipad
+
+l - pc 
+*/
+
+
 .grid {
     width: 100%;
     display: block;
