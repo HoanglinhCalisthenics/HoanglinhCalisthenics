@@ -149,7 +149,7 @@ l - pc
     margin-left: 91.66667%;
 }
 
-/* >= Tablet */
+/* >= Ipad */
 @media (min-width: 740px) {
     .row {
         margin-left: -8px;
