@@ -1,3 +1,13 @@
+/*  Grid system: một cấu trúc bao gồm một loạt các đường ngang và dọc, được sử dụng để sắp xếp nội dung. 
+    
+    Đối tượng row:
+        -Chứa các cols, cho cols nằm theo chiều ngang (Use display: flex)
+        -width cols > width row using flex-wrap: wrap 
+
+     Đối tượng column:
+        -Chứa các thành phần trên website.
+
+*/
 
 /* 
 c - mobile
